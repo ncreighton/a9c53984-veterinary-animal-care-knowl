@@ -1,2 +1,46 @@
-# a9c53984-veterinary-animal-care-knowl
-What if add powerful functionality to WordPress without writing code took minutes instead of hours?  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Veterinary &amp; Animal Care Knowledge Base And Help Center — fully configured and ready to use
+# Veterinary & Animal Care Knowledge Base and Help Center WordPress Plugin
+
+> Plugin for Veterinary
+
+What if add powerful functionality to WordPress without writing code took minutes instead of hours?
+
+Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.
+
+## What's Included
+
+- Veterinary & Animal Care Knowledge Base And Help Center — fully configured and ready to...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/bJe00j5iT9MwaNO9rKcZL2Q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
